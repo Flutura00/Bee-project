@@ -7,4 +7,5 @@ This is data recorded from a bee hive in the summer of 2019. There are a total ~
 
 My data analysis shows that the bees are correlated in their movement patterns. I look at the mean during 1 minute 90th percentile of speed of movement, and find that its correlated in time more than in an equivalent dataset in which time is shuffled. 
 
-In this project I work on jupyter notebooks, and use pandas package to work with the dataframes. I re-organize the dataframe so that 
+In the first directory, I find zig-zag patterns in trajectories, which which were not known before, that are caused by the preprocessing of the data. 
+In the second directory, I remove those data from the main analysis and calculate the correlation of different parameters. 

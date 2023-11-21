@@ -14,4 +14,4 @@ Example trajectory
 
 Places where the zig-zag patterns happen
 
-<img width="250" alt="image" src="https://github.com/Flutura00/Bee-project/assets/107845798/0f148d20-e108-4403-a9d8-7e27373e6cf1">
+<img width="300" alt="image" src="https://github.com/Flutura00/Bee-project/assets/107845798/0f148d20-e108-4403-a9d8-7e27373e6cf1">

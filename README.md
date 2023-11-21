@@ -9,3 +9,5 @@ My data analysis shows that the bees are correlated in their movement patterns. 
 
 In the first directory, I find zig-zag patterns in trajectories, which which were not known before, that are caused by the preprocessing of the data. 
 In the second directory, I remove those data from the main analysis and calculate the correlation of different parameters. 
+
+More information can be found on the directories.

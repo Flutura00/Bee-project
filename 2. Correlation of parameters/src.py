@@ -26,7 +26,7 @@ year = 2019
 import os
 
 os.chdir('/sharedcodes/bees/')
-
+# Choose which data I want to work with. There were two experiments, one in 2018 and one in 2019. I work with 2019 data.
 if year==2018:
     import definitions_2018 as bd
     resultsdir = '/data/beeresults/'

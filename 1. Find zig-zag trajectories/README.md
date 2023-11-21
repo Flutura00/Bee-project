@@ -8,4 +8,5 @@ Since the data is not public, I cannot run the codes here, therefore I have adde
 
 
 Example trajectory
+
 <img width="200" alt="image" src="https://github.com/Flutura00/Bee-project/assets/107845798/9cb4225e-d7f4-4de4-b058-7ebbc572800f">

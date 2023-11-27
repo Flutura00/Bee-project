@@ -14,4 +14,4 @@ This analysis is done in multiple steps, as shown in functions in the functions_
 
 6. After clustering the bees based on the parameter of interest, in our case the Speed 90th quantile during one minute, we calculate statistics like mean, standard deviation, and correlation of other parameters in the already formed clusters.
 
-7. We bring everythging together in a dataframe, in the form of a csv file, to be accessed easliy.
+7. We bring everything together in a dataframe, in the form of a csv file, to be accessed easliy.
